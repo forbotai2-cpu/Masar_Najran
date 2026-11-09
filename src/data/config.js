@@ -11,5 +11,5 @@ export const DEMO_CONFIG = {
   simTickMs: 1000,
   // سرعة تحريك الحافلة على الخريطة عند «محاكاة وصول الحافلة»
   fastForwardMs: 6000,
-  appUrl: 'https://najran-transit.vercel.app/',
+  appUrl: 'https://masar-najran.vercel.app/',
 }

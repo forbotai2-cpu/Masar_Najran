@@ -23,7 +23,7 @@ npm run test:e2e     # SHOTS=./shots لحفظ لقطات الشاشة
 
 المشروع Vite + React مثل النسخة السابقة؛ إعدادات Vercel الافتراضية تعمل كما هي:
 Build Command `npm run build` ، Output Directory `dist`.
-لم يُنشر شيء على https://najran-transit.vercel.app/ — النشر بقرارك:
+لم يُنشر شيء على https://masar-najran.vercel.app/ — النشر بقرارك:
 ارفع الملفات إلى مستودع المشروع المرتبط بـ Vercel، أو من جهازك: `npx vercel --prod`.
 
 ## ما الذي تغيّر
@@ -72,7 +72,7 @@ Build Command `npm run build` ، Output Directory `dist`.
 
 ## رمز QR
 
-`public/qr/najran-transit-app-qr.png` (1200×1200) و`.svg` — يفتح https://najran-transit.vercel.app/ ،
+`public/qr/najran-transit-app-qr.png` (1200×1200) و`.svg` — يفتح https://masar-najran.vercel.app/ ،
 تصحيح أخطاء M، منطقة هادئة 4 وحدات، بلا شعار في المنتصف. تم التحقق من فكّه برمجيًا؛ يُنصح بتجربة المسح بكاميرا الهاتف.
 يظهر داخل التطبيق في «حسابي ← جرّب التطبيق».
 

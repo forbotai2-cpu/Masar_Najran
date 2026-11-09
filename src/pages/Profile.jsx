@@ -107,7 +107,7 @@ export default function Profile() {
         <div>
           <h3>امسح لتجربة تطبيق مسار نجران</h3>
           <p className="muted small" dir="ltr">
-            najran-transit.vercel.app
+            masar-najran.vercel.app
           </p>
           <p className="fine-print">هذا رمز لفتح النموذج فقط، وليس تذكرة ولا رمز دفع.</p>
           <div className="btn-row">
