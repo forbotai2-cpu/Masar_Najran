@@ -1,0 +1,24 @@
+{
+  "name": "najran-transit",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "geometry": "node scripts/build-geometry.mjs",
+    "test:e2e": "node tests/e2e.mjs"
+  },
+  "dependencies": {
+    "@fontsource/noto-kufi-arabic": "5.1.1",
+    "leaflet": "1.9.4",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-leaflet": "5.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.5.2",
+    "vite": "6.3.5"
+  }
+}
